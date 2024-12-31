@@ -106,8 +106,8 @@ Check out my latest blog posts and articles where I share insights, tutorials, a
 
 If you'd like to get in touch or hire me for a penetration testing engagement, feel free to reach out!
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourname](#)
+- **Email:** mohammedaslamak1@gmail.com
+- **LinkedIn:** (https://www.linkedin.com/in/mohammed-aslam-ak-9280a5344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **Twitter:** [@yourhandle](#)
 
 ---
